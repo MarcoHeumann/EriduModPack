@@ -1,0 +1,14 @@
+{
+	"name": "Eridu Server ModPack",
+	"description": "ModPack for the Eridu server (IP: 31.214.202.171:27015, English, NoGods, NoWipe, No raiding south of the River, open PvP everywhere else).\r\n\r\nIncluded modifications can and will change over time as we see nessessary.\r\nThe focus of this pack is on:\r\n- fixing bugs Funcom ignores\r\n- balance adjustments for items that would otherwise be useless\r\n- cosmetic changes\r\n- increasing the levelrange (currently up to 75) with the same progression curve that is already in game.\r\n\r\nCurrently included modifications\r\n\r\nChanges:\r\n- Level increase to 75\r\n- Pickaxe needs thick leather to repair but in turn has its durability increased to the level of other steel tools\r\n- named weapon are considered \"steel tier\" now, like their damage suggests anyways.\r\n\r\nAdditions:- Armor recipes for Darfari, Zamorians, Shemites, Black Hands, Relic Hunters and Desert Dogs\r\n- Recipes for additional beds and bedrolls\r\n- Admin toolkit in the form of Godarmor, Immovable Object and Unstopable Force (sorry guys, cheater and or heavy griefers will be hunted down)\r\n\r\nFixes:\r\n- Named weapons are now repairable",
+	"changeNote": "Reverted to Version 1.1\r\n\r\nRemoved MOTD and Server rules since they did not work on our server, even tho they did work on a dedicated test server.\r\nBoth are likely to return, once i find a way to actually test these without bringing down a live server. \r\n\r\nSorry folks.",
+	"author": "Rattenmann",
+	"authorUrl": "http://steamcommunity.com/id/rattenmannXXL",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "872974155",
+	"steamVisibility": 0,
+	"folderName": "EriduModPack"
+}
